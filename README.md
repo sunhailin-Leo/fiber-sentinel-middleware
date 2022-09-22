@@ -1,4 +1,4 @@
-# fiber-sentinel-middleware
+<h1 align="center">fiber-sentinel-middleware</h1>
 
 alibaba/sentinel-golang(https://github.com/alibaba/sentinel-golang) middleware for fiber framework(https://github.com/gofiber/fiber).
 
